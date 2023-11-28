@@ -1,0 +1,87 @@
+Senior Software Engineer
+
+
+SUMMARY
+As an experienced software engineer with over 8 years in the field, I have a thorough command of the entire software system lifecycle, including analysis, design, development, testing, and deployment. Currently, I'm focused on designing new APIs and enhancing the performance of existing ones using Spring Boot and Spring Cloud technologies. My expertise also covers unit and integration testing with JUnit, Mockito, and Spring Boot Test, and deploying microservices with Docker, Kubernetes, Helm, and Istio.
+Proficient in Agile/Scrum methodologies, I ensure smooth project execution and delivery. I have a solid background in both relational (MySQL, PostgreSQL) and NoSQL (Redis) databases, Kafka ecosystems, and AWS services.
+I bring specialized knowledge in application security, including OAuth, OIDC, fine-grained authorization, TLS, mTLS, and cryptography practices, fortifying software solutions. My role in hiring and talent acquisition highlights my contribution beyond technical skills. Known for outstanding teamwork, analytical skills, and strategic planning, I'm dedicated to continuous learning and innovation in software engineering.
+
+SKILLS
+Proficient experience with Design and Development of RESTful and SOAP Web Services.
+Mastery of Spring Cloud Technologies (Zuul, Eureka, Ribbon, Hystrix, Vault).
+In-depth knowledge of Spring Framework Components (Spring MVC, IOC, AOP, Spring JDBC, Spring Data JPA, Spring Security).
+Redis Caching Mechanisms.
+Unit and Integration Testing (JUnit, Mockito, Spring Boot Test).
+Advanced skills in Microservices Deployment and Scaling (Docker, Kubernetes, Helm, Istio).
+Agile/Scrum Practices.
+Relational and NoSQL Databases (MySQL, PostgreSQL, Redis).
+Experience with microservices architecture and message queues (e.g., RabbitMQ, ActiveMQ, Kafka).
+Front-End Development (Angular for SPAs, Ionic for Mobile Devices).
+AWS Services (VPC, EC2, S3, Security Groups, SQS, SNS, Lambda).
+Cloud Infrastructure Management (Terraform, Infrastructure as Code Principles).
+Proficiency in Test Driven Development (TDD) and/or Behavior Driven Development (BDD).
+Expertise in Debugging and problem-solving.
+Knowledge of Design Patterns and their application.
+Technical Documentation and clear communication of complex concepts.
+Creation and management of User Stories.
+Web Development with contemporary frameworks.
+Hiring and Talent Acquisition, with a focus on building effective development teams.
+Performance Testing using tools like K6 scripting, JMeter, or similar.
+Code Review and Quality Assurance practices.
+Leadership in architectural decisions and technology strategy.
+Continuous Integration and Continuous Deployment (CI/CD) practices.
+Familiarity with Java Virtual Machine (JVM) tuning and optimization.
+Understanding of secure coding practices and cybersecurity principles.
+Experience in mentoring junior developers and providing technical guidance.
+Effective stakeholder management and team collaboration skills.
+Capacity for innovative thinking and problem-solving in software development.
+
+
+EXPERIENCE
+Senior Software Engineer
+
+
+Played a pivotal role in the digital transformation for Ecommerce platform, transitioning from legacy systems to a modern microservices architecture. This involved spearheading the design and development of REST APIs to facilitate automation and enhance digital capabilities.
+Orchestrated robust service orchestration by architecting and refining control loops/state machines, leveraging BPMN and Flowable for efficient workflow automation.
+Innovated in microservice deployment strategies through the creation and maintenance of Helm charts for Kubernetes, enhancing the scalability and management of containerized services.
+Optimized CI/CD pipelines using GitLab CI and AutoDevOps, achieving expedited and consistent service deployment to production environments.
+Implemented advanced Redis-based NoSQL database solutions, significantly improving application responsiveness and data strategy flexibility.
+Conducted comprehensive training sessions on Kubernetes and Istio, elevating the team's skills in managing containerized applications and service meshes.
+Playing a critical role in system design and architecture, ensuring systems are developed according to the highest standards for robustness and scalability.
+Fortifying microservices systems with advanced security and authorization by implementing ABAC using PDP and PIP patterns to meet complex authorization needs.
+Executing hands-on proof of concept (POC) projects for infrastructure provisioning using Terraform on AWS, demonstrating a proactive approach in adopting infrastructure as code (IaC) practices for cloud resources.
+Managed Agile framework effectively, including story creation, grooming, and coordination with cross-functional teams, ensuring timely delivery of requirements.
+
+
+Software Engineer
+
+Proficiently managed the full software system lifecycle including analysis, design, development, documentation, implementation, testing, and deployment to production.
+Skilled in designing and developing REST APIs using Spring Boot, supplemented by various Spring Cloud technologies like Zuul, Eureka, Ribbon, Hystrix, and Vault.
+Demonstrated expertise in Spring Framework components, including Spring MVC, IOC, AOP, Spring JDBC, Spring Data JPA, and Spring Security, with a focus on Redis caching mechanisms.
+Created robust unit and integration tests using JUnit, Mockito, and Spring Boot Test.
+Proficient in deploying and scaling microservices using Docker, Kubernetes, Helm, and Istio within CI/CD pipelines.
+Gained extensive experience with relational (MySQL, PostgreSQL) and NoSQL (Redis) databases, and managed Kafka ecosystem components like Topics and Consumer Groups.
+Gained familiarity with AWS services and foundational knowledge of Amazon SQS, SNS, and Lambda.
+Actively participated in the hiring process, leveraging technical expertise to recruit top-tier talent.
+
+Technical Analyst
+
+Actively engaged in an Agile development environment, collaborating with business stakeholders and Product Owners for story grooming and reviewing acceptance criteria to meet the highest standards of functional requirements.
+Spearheaded the design and development of RESTful Web Services, advocating microservice architecture and adhering to the 12-factor app methodology to enhance scalability and maintainability of services.
+Played a pivotal role as a mentor for new recruits, elucidating the intricacies of microservice design patterns and the effective utilization of Spring Boot and Spring Cloud for the development of robust microservices.
+Involved in the front-end development of Single Page Applications (SPA) using Angular and app development using Ionic, crafting intuitive data capture, visualization and analytics interfaces for large-scale survey applications, enhancing user engagement and data interaction.
+Innovated by developing custom JavaScript libraries capable of dynamically rendering web forms based on JSON schemas, significantly increasing the flexibility and responsiveness of client-facing applications.
+
+
+Software Developer
+
+Spearheaded the development of intuitive desktop applications for the company’s health products using Java Swing and JDBC, significantly enhancing user experience and system efficiency.
+Engineered and maintained REST API Adapters with Java and Apache Libraries, ensuring seamless data exchange and integration with external systems.
+Played a pivotal role in the design and implementation of a patient registration module within a web application, focusing on user-friendly interfaces and secure data handling.
+Collaborated with cross-functional teams to gather requirements, troubleshoot issues, and deliver solutions in alignment with business goals.
+Employed best practices in code quality, resulting in maintainable and scalable applications and contributing to the product’s long-term success.
+Actively participated in the full software development life cycle, from conceptualization and design to development and deployment, ensuring timely releases and quality deliverables.
+Instrumental in optimizing database transactions and queries, leading to a 20% performance improvement in data operations for the desktop applications.
+
+
+
